@@ -1,0 +1,9 @@
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\bin\Debug\YourChat.Core.dll.config
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\bin\Debug\YourChat.Core.dll
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\bin\Debug\YourChat.Core.pdb
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\bin\Debug\EntityFramework.dll
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\bin\Debug\EntityFramework.xml
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\obj\Debug\YourChat.Core.dll
+E:\Programming\DZ\C# Homeworks\18.02.10\LoginApp\YourChat.Core\obj\Debug\YourChat.Core.pdb

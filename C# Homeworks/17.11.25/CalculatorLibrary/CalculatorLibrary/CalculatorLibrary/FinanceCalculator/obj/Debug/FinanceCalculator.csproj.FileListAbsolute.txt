@@ -1,0 +1,9 @@
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\bin\Debug\FinanceCalculator.exe.config
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\bin\Debug\FinanceCalculator.exe
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\bin\Debug\FinanceCalculator.pdb
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\bin\Debug\CalculatorLibrary.dll
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\bin\Debug\CalculatorLibrary.pdb
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\obj\Debug\FinanceCalculator.csprojResolveAssemblyReference.cache
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\obj\Debug\FinanceCalculator.csproj.CoreCompileInputs.cache
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\obj\Debug\FinanceCalculator.exe
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\FinanceCalculator\obj\Debug\FinanceCalculator.pdb

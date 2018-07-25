@@ -1,0 +1,81 @@
+#include <iostream>
+#include <stdlib.h>
+#include <time.h>
+using namespace std; 
+int sum_user = 0, sum_pc=0;
+int Game();
+
+int main()
+{
+	int One;
+	int g,s, n = 10;
+	cout << "\t\t\t\:\:\:GAME_KUB\:\:\:\n"
+		<< "Hto kudaye peshum?\t(0-Vu, 1-PC)\n";
+	cin >> One;
+	switch (One) {
+	case 0:
+		for (int i = 0; i < n; ++i)
+		{
+			if (i % 2 == 0)
+			{
+				g = Game();
+				cout << "Vash kydok\t";
+				cout<< g << "\t\t\t";
+				sum_user += g;
+			}
+			else
+			{
+				g = Game();
+				cout << "Kydok PC\t" << g;
+				sum_pc += g;
+			}
+			cout << "\n";
+			system("pause");
+		}
+		break;
+	case 1:
+		for (int i = 0; i < n; ++i)
+		{
+			if (i % 2 != 0)
+			{
+				g = Game();
+				cout << "Vash kydok\t";
+				cout << g << "\t\t\t";
+				sum_user += g;
+			}
+			else
+			{
+				g = Game();
+				cout <<"Kydok PC\t"<< g;
+				sum_pc += g;
+			}
+			cout << "\n";
+			system("pause");
+		}
+		break;
+	default:
+		cout << "Nevirne znachennya";
+		break;
+	}
+	cout << "Vashe serednye znachennya=" << sum_user / 5 << "\t\t\t"
+		<< "Serednye znachennya PC="<<sum_pc/5<<"\n";
+	if (sum_user > sum_pc)
+	{
+		cout << "Vu peremohlu!!!";
+	}
+	else if (sum_user < sum_pc)
+	{
+		cout << "Peremih PC((";
+	}
+	else
+	{
+		cout << "Peremohla druzhba)";
+	}
+}
+int Game() {
+	srand(time(NULL));
+	int one = rand() % 6 + 1;
+	int two = rand() % 6 + 1;
+	int suma = one + two;
+	return suma;
+}

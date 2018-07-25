@@ -1,0 +1,13 @@
+E:\Study\2017-2018\21. MSSQL Server\Lesson 5. Table as Type The BEST\ExampleSP\ExampleSP\bin\Debug\ExampleSP.exe.config
+E:\Study\2017-2018\21. MSSQL Server\Lesson 5. Table as Type The BEST\ExampleSP\ExampleSP\bin\Debug\ExampleSP.exe
+E:\Study\2017-2018\21. MSSQL Server\Lesson 5. Table as Type The BEST\ExampleSP\ExampleSP\bin\Debug\ExampleSP.pdb
+E:\Study\2017-2018\21. MSSQL Server\Lesson 5. Table as Type The BEST\ExampleSP\ExampleSP\obj\Debug\ExampleSP.csprojResolveAssemblyReference.cache
+E:\Study\2017-2018\21. MSSQL Server\Lesson 5. Table as Type The BEST\ExampleSP\ExampleSP\obj\Debug\ExampleSP.csproj.CoreCompileInputs.cache
+E:\Study\2017-2018\21. MSSQL Server\Lesson 5. Table as Type The BEST\ExampleSP\ExampleSP\obj\Debug\ExampleSP.exe
+E:\Study\2017-2018\21. MSSQL Server\Lesson 5. Table as Type The BEST\ExampleSP\ExampleSP\obj\Debug\ExampleSP.pdb
+E:\Programming\DZ\C# Homeworks\18.01.13\sql\ExampleSP\ExampleSP\bin\Debug\ExampleSP.exe.config
+E:\Programming\DZ\C# Homeworks\18.01.13\sql\ExampleSP\ExampleSP\obj\Debug\ExampleSP.exe
+E:\Programming\DZ\C# Homeworks\18.01.13\sql\ExampleSP\ExampleSP\obj\Debug\ExampleSP.pdb
+E:\Programming\DZ\C# Homeworks\18.01.13\sql\ExampleSP\ExampleSP\bin\Debug\ExampleSP.exe
+E:\Programming\DZ\C# Homeworks\18.01.13\sql\ExampleSP\ExampleSP\bin\Debug\ExampleSP.pdb
+E:\Programming\DZ\C# Homeworks\18.01.13\sql\ExampleSP\ExampleSP\obj\Debug\ExampleSP.csprojResolveAssemblyReference.cache

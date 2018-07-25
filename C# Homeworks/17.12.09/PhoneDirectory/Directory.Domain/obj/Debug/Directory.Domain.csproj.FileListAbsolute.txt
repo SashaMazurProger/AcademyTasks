@@ -1,0 +1,10 @@
+E:\Programming\DZ\C# Homeworks\17.12.02\PhoneDirectory\Directory.Domain\bin\Debug\Directory.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.02\PhoneDirectory\Directory.Domain\bin\Debug\Directory.Domain.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\PhoneDirectory\Directory.Domain\obj\Debug\Directory.Domain.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.02\PhoneDirectory\Directory.Domain\obj\Debug\Directory.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.02\PhoneDirectory\Directory.Domain\obj\Debug\Directory.Domain.pdb
+E:\Programming\DZ\C# Homeworks\17.12.09\PhoneDirectory\Directory.Domain\bin\Debug\Directory.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.09\PhoneDirectory\Directory.Domain\bin\Debug\Directory.Domain.pdb
+E:\Programming\DZ\C# Homeworks\17.12.09\PhoneDirectory\Directory.Domain\obj\Debug\Directory.Domain.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.09\PhoneDirectory\Directory.Domain\obj\Debug\Directory.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.09\PhoneDirectory\Directory.Domain\obj\Debug\Directory.Domain.pdb

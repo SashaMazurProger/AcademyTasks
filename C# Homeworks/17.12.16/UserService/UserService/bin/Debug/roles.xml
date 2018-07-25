@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<roles>
+  <role id="1">
+    <name>as</name>
+    <description>
+    </description>
+  </role>
+  <role id="1">
+    <name>as</name>
+    <description>
+    </description>
+  </role>
+  <role id="2">
+    <name>we</name>
+    <description>
+    </description>
+  </role>
+  <role id="1">
+    <name>as</name>
+    <description>
+    </description>
+  </role>
+  <role id="1">
+    <name>as</name>
+    <description>
+    </description>
+  </role>
+  <role id="2">
+    <name>we</name>
+    <description>
+    </description>
+  </role>
+  <role id="3">
+    <name>user</name>
+    <description>
+    </description>
+  </role>
+</roles>

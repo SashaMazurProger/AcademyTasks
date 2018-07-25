@@ -1,0 +1,6 @@
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojResolveAssemblyReference.cache
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

@@ -1,0 +1,15 @@
+E:\Study\2017-2018\17. C#\Lesson 8. Інтерфейси\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe.config
+E:\Study\2017-2018\17. C#\Lesson 8. Інтерфейси\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe
+E:\Study\2017-2018\17. C#\Lesson 8. Інтерфейси\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.pdb
+E:\Study\2017-2018\17. C#\Lesson 8. Інтерфейси\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csprojResolveAssemblyReference.cache
+E:\Study\2017-2018\17. C#\Lesson 8. Інтерфейси\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csproj.CoreCompileInputs.cache
+E:\Study\2017-2018\17. C#\Lesson 8. Інтерфейси\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.exe
+E:\Study\2017-2018\17. C#\Lesson 8. Інтерфейси\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe.config
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.exe
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\Bogus.dll
+E:\Programming\DZ\C# Homeworks\17.12.16\ConsoleAppInterface\ConsoleAppInterface\bin\Debug\Bogus.xml

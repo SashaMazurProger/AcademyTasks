@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bogus</id>
+    <version>21.0.5</version>
+    <title>Bogus</title>
+    <authors>Brian Chavez</authors>
+    <owners>Brian Chavez</owners>
+    <licenseUrl>https://raw.githubusercontent.com/bchavez/Bogus/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/bchavez/Bogus</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/bchavez/Bogus/master/Docs/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple and sane data generator for populating objects that supports different locales. A delightful port of the famed faker.js and inspired by FluentValidation. Use it to create and load databases and UIs with mock up data. Get started by using Faker class or a DataSet directly.</description>
+    <summary />
+    <releaseNotes>## v21.0.5
+* Better error support.
+* Added `Person.FullName` field.
+* Allowed `Faker&lt;T&gt;.FinishWith` to be called multiple times. Last call wins.
+
+## v21.0.4
+* Fixed `f.Image` URL generation.
+
+## v21.0.2 
+* Re-enabled **.NET Standard 1.3** targeting.
+* Added `Gender` field to `Person`. Deterministic sequences may have changed.
+* Added `Randomizer.Bool(weight)` to generate weighted boolean values of true.
+* Italian `CodiceFiscale()` extension method added. Extends `Person` and `Finance`.
+
+## v20.0.2
+* Fixed Issue 102: `f.Random.Uuid()` is now deterministic based on global or local seed.
+
+## v20.0.1
+* Added `Faker&lt;T&gt;.Clone()`: Clones internal state of a `Faker&lt;T&gt;` and allows for complex faking scenarios and rule combinations.
+* Added `Faker&lt;T&gt;.UseSeed(n)`: Allows you to specify a localized seed value on a `Faker&lt;T&gt;` instead of a global static `Randomizer.Seed`.
+* Stronger `Seed` determinism for multi-threaded scenarios.
+
+
+Full History Here: https://github.com/bchavez/Bogus/blob/master/HISTORY.md</releaseNotes>
+    <tags>fake bogus poco data generator database seed values test-data test tdd testing faker .net EF</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="NETStandard.Library" version="1.6.1" />
+        <dependency id="System.Globalization.Extensions" version="4.3.0" />
+        <dependency id="System.Reflection.TypeExtensions" version="4.3.0" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

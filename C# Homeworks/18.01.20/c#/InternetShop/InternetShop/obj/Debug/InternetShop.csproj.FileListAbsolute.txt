@@ -1,0 +1,6 @@
+E:\Programming\DZ\C# Homeworks\18.01.20\c#\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+E:\Programming\DZ\C# Homeworks\18.01.20\c#\InternetShop\InternetShop\obj\Debug\InternetShop.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\18.01.20\c#\InternetShop\InternetShop\bin\Debug\InternetShop.exe
+E:\Programming\DZ\C# Homeworks\18.01.20\c#\InternetShop\InternetShop\bin\Debug\InternetShop.pdb
+E:\Programming\DZ\C# Homeworks\18.01.20\c#\InternetShop\InternetShop\obj\Debug\InternetShop.exe
+E:\Programming\DZ\C# Homeworks\18.01.20\c#\InternetShop\InternetShop\obj\Debug\InternetShop.pdb

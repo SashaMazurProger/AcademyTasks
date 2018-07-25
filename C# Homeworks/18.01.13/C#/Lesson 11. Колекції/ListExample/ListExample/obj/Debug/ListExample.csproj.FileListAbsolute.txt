@@ -1,0 +1,7 @@
+E:\Study\2017-2018\17. C#\Lesson 11. Колекції\ListExample\ListExample\bin\Debug\ListExample.exe.config
+E:\Study\2017-2018\17. C#\Lesson 11. Колекції\ListExample\ListExample\bin\Debug\ListExample.exe
+E:\Study\2017-2018\17. C#\Lesson 11. Колекції\ListExample\ListExample\bin\Debug\ListExample.pdb
+E:\Study\2017-2018\17. C#\Lesson 11. Колекції\ListExample\ListExample\obj\Debug\ListExample.csprojResolveAssemblyReference.cache
+E:\Study\2017-2018\17. C#\Lesson 11. Колекції\ListExample\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+E:\Study\2017-2018\17. C#\Lesson 11. Колекції\ListExample\ListExample\obj\Debug\ListExample.exe
+E:\Study\2017-2018\17. C#\Lesson 11. Колекції\ListExample\ListExample\obj\Debug\ListExample.pdb

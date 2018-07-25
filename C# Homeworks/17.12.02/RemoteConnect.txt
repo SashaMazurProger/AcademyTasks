@@ -1,0 +1,5 @@
+Намагався зробити підключення піж ПК і ноутбуком, 
+але дальше пропінговування не дійшов,
+тому що не можу підключити їх до однієї локальної мережі.
+
+https://docs.microsoft.com/ru-ru/sql/relational-databases/lesson-2-connecting-from-another-computer

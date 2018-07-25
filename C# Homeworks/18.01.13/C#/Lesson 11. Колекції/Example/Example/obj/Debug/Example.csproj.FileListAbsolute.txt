@@ -1,0 +1,6 @@
+E:\Study\2016-2017\STEP\10. C#\Lesson 15. Колекції\Example\Example\bin\Debug\Example.exe.config
+E:\Study\2016-2017\STEP\10. C#\Lesson 15. Колекції\Example\Example\bin\Debug\Example.exe
+E:\Study\2016-2017\STEP\10. C#\Lesson 15. Колекції\Example\Example\bin\Debug\Example.pdb
+E:\Study\2016-2017\STEP\10. C#\Lesson 15. Колекції\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+E:\Study\2016-2017\STEP\10. C#\Lesson 15. Колекції\Example\Example\obj\Debug\Example.exe
+E:\Study\2016-2017\STEP\10. C#\Lesson 15. Колекції\Example\Example\obj\Debug\Example.pdb

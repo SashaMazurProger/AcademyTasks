@@ -1,0 +1,9 @@
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\bin\Debug\Bank.exe.config
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\bin\Debug\Bank.exe
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\bin\Debug\Bank.pdb
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\bin\Debug\CalculatorLibrary.dll
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\bin\Debug\CalculatorLibrary.pdb
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\obj\Debug\Bank.exe
+E:\DZ\C# Homeworks\17.11.25\CalculatorLibrary\CalculatorLibrary\CalculatorLibrary\Bank\obj\Debug\Bank.pdb

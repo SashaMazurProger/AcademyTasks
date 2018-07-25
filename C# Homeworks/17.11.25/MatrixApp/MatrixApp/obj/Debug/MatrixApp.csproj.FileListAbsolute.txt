@@ -1,0 +1,8 @@
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\bin\Debug\MatrixApp.exe.config
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\obj\Debug\MatrixApp.csprojResolveAssemblyReference.cache
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\bin\Debug\MatrixApp.exe
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\bin\Debug\MatrixApp.pdb
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\bin\Debug\MatrixLibrary.dll
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\bin\Debug\MatrixLibrary.pdb
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\obj\Debug\MatrixApp.exe
+E:\DZ\C# Homeworks\17.11.25\MatrixApp\MatrixApp\obj\Debug\MatrixApp.pdb

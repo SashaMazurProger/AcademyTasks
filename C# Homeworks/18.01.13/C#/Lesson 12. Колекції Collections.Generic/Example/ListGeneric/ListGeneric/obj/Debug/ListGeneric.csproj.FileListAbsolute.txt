@@ -1,0 +1,9 @@
+E:\Study\2016-2017\STEP\10. C#\Lesson 16. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\bin\Debug\ListGeneric.exe.config
+E:\Study\2016-2017\STEP\10. C#\Lesson 16. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\bin\Debug\ListGeneric.exe
+E:\Study\2016-2017\STEP\10. C#\Lesson 16. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\bin\Debug\ListGeneric.pdb
+E:\Study\2016-2017\STEP\10. C#\Lesson 16. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\obj\Debug\ListGeneric.csprojResolveAssemblyReference.cache
+E:\Study\2016-2017\STEP\10. C#\Lesson 16. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\obj\Debug\ListGeneric.exe
+E:\Study\2016-2017\STEP\10. C#\Lesson 16. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\obj\Debug\ListGeneric.pdb
+E:\Programming\DZ\C# Homeworks\18.01.13\C#\Lesson 12. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\bin\Debug\ListGeneric.exe.config
+E:\Programming\DZ\C# Homeworks\18.01.13\C#\Lesson 12. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\obj\Debug\ListGeneric.exe
+E:\Programming\DZ\C# Homeworks\18.01.13\C#\Lesson 12. Колекції Collections.Generic\Example\ListGeneric\ListGeneric\obj\Debug\ListGeneric.pdb

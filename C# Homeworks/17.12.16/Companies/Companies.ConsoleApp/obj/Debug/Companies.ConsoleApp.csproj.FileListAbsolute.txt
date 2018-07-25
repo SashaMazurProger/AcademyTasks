@@ -1,0 +1,15 @@
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\Companies.ConsoleApp.exe.config
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\obj\Debug\Companies.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\Companies.ConsoleApp.exe
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\Companies.ConsoleApp.pdb
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\Bogus.dll
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\Companies.Domain.dll
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\EntityFramework.dll
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\Companies.Domain.pdb
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\Bogus.xml
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\bin\Debug\EntityFramework.xml
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\obj\Debug\Companies.ConsoleApp.exe
+D:\Mazur Sasha\Companies\Companies.ConsoleApp\obj\Debug\Companies.ConsoleApp.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\Companies\Companies.ConsoleApp\bin\Debug\Companies.ConsoleApp.exe.config
+E:\Programming\DZ\C# Homeworks\17.12.16\Companies\Companies.ConsoleApp\obj\Debug\Companies.ConsoleApp.exe
+E:\Programming\DZ\C# Homeworks\17.12.16\Companies\Companies.ConsoleApp\obj\Debug\Companies.ConsoleApp.pdb

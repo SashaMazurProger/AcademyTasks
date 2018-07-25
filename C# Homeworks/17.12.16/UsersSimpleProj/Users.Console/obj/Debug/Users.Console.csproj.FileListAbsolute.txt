@@ -1,0 +1,10 @@
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\bin\Debug\Users.Console.exe.config
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\bin\Debug\Users.Console.exe
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\bin\Debug\Users.Console.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\bin\Debug\Bogus.dll
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\bin\Debug\Users.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\bin\Debug\Users.Domain.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\bin\Debug\Bogus.xml
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\obj\Debug\Users.Console.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\obj\Debug\Users.Console.exe
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Console\obj\Debug\Users.Console.pdb

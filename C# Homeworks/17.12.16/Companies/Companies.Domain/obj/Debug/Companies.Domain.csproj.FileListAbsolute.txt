@@ -1,0 +1,10 @@
+D:\Mazur Sasha\Companies\Companies.Domain\bin\Debug\Companies.Domain.dll.config
+D:\Mazur Sasha\Companies\Companies.Domain\bin\Debug\Companies.Domain.dll
+D:\Mazur Sasha\Companies\Companies.Domain\bin\Debug\Companies.Domain.pdb
+D:\Mazur Sasha\Companies\Companies.Domain\bin\Debug\EntityFramework.dll
+D:\Mazur Sasha\Companies\Companies.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mazur Sasha\Companies\Companies.Domain\bin\Debug\EntityFramework.xml
+D:\Mazur Sasha\Companies\Companies.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mazur Sasha\Companies\Companies.Domain\obj\Debug\Companies.Domain.csprojResolveAssemblyReference.cache
+D:\Mazur Sasha\Companies\Companies.Domain\obj\Debug\Companies.Domain.dll
+D:\Mazur Sasha\Companies\Companies.Domain\obj\Debug\Companies.Domain.pdb

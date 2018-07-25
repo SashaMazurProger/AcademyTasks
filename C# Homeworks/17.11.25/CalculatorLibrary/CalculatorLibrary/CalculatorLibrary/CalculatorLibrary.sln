@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{DA0F5C3B-A04A-417B-B71A-5C7FCF0314E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{A4C2AA74-3D38-488E-B240-8E652FFC2308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{5212270D-7DD1-46BC-B429-E014571CAF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0F5C3B-A04A-417B-B71A-5C7FCF0314E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0F5C3B-A04A-417B-B71A-5C7FCF0314E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0F5C3B-A04A-417B-B71A-5C7FCF0314E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0F5C3B-A04A-417B-B71A-5C7FCF0314E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C2AA74-3D38-488E-B240-8E652FFC2308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C2AA74-3D38-488E-B240-8E652FFC2308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C2AA74-3D38-488E-B240-8E652FFC2308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C2AA74-3D38-488E-B240-8E652FFC2308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5212270D-7DD1-46BC-B429-E014571CAF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5212270D-7DD1-46BC-B429-E014571CAF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5212270D-7DD1-46BC-B429-E014571CAF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5212270D-7DD1-46BC-B429-E014571CAF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B885D6-8FA5-44EA-8B40-7A1523867397}
+	EndGlobalSection
+EndGlobal

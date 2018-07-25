@@ -1,0 +1,5 @@
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Domain\bin\Debug\Users.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Domain\bin\Debug\Users.Domain.pdb
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Domain\obj\Debug\Users.Domain.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Domain\obj\Debug\Users.Domain.dll
+E:\Programming\DZ\C# Homeworks\17.12.16\Users\Users.Domain\obj\Debug\Users.Domain.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="53a8c3ae0dec43518a64039efea23e66" Name="Diagram1">
+        <EntityTypeShape EntityType="ChatModel.CategoryOfChat" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.Chat" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.ChatMessage" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.FromUserId" Width="1.5" PointX="10.5" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.Message" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.PrivateMessage" Width="1.5" PointX="12.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.sysdiagram" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.User" Width="1.5" PointX="8.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatModel.UserStatus" Width="1.5" PointX="6" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="ChatModel.FK_Chat_CategoryOfChat" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.FK_ChatMessage_Chat" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.FK_ChatMessage_FromUserId" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.FK_ChatMessage_Message" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.FK_FromUserId_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.FK_PrivateMessage_FromUserId" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.FK_PrivateMessage_Message" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.FK_PrivateMessage_User" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.UserToChat" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatModel.UserToStatuses" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
